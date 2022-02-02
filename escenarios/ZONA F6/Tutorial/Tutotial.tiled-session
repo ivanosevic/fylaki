@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/USER/Desktop/untitled.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/USER/Desktop/Assets.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/USER/Desktop/prueba.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 602,
+                "y": 210.66666666666663
+            }
+        },
+        "C:/Users/USER/Desktop/untitled.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176,
+                "y": 116
+            }
+        },
+        "C:/Users/USER/GitHub/fylaki/escenarios/Assets [ Castle Prision ].tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/GitHub/fylaki/escenarios/prueba_1.tmx": {
+            "scale": 1.6587890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.5124219945838,
+                "y": 178.44342399623224
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/USER/GitHub/fylaki/assets/legacy_fantasy_castle_prision/Assets",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 20,
+    "openFiles": [
+        "C:/Users/USER/Desktop/untitled.tmx",
+        "C:/Users/USER/Desktop/Assets.tsx"
+    ],
+    "project": "Tutotial.tiled-project",
+    "recentFiles": [
+        "C:/Users/USER/GitHub/fylaki/escenarios/prueba_1.tmx",
+        "C:/Users/USER/Desktop/untitled.tmx",
+        "C:/Users/USER/Desktop/Assets.tsx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx"
+}
