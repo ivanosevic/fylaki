@@ -3,8 +3,8 @@
  <editorsettings>
   <export target="Zona D4/Terreno..csv" format="csv"/>
  </editorsettings>
- <tileset firstgid="1" source="../Assets.tsx"/>
- <tileset firstgid="41" source="../Background.tsx"/>
+ <tileset firstgid="1" source="../../Assets.tsx"/>
+ <tileset firstgid="41" source="../../Background.tsx"/>
  <tileset firstgid="129" source="Tiles-Dungeon.tsx"/>
  <tileset firstgid="2817" source="wooden_stairs-ns.tsx"/>
  <layer id="2" name="Fondo" width="71" height="27">

@@ -3,17 +3,54 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Background [ Castle Tiles].tsx",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Assets [ Castle Prision ].tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 4
         },
+        "Assets.tsx": {
+            "scaleInDock": 1
+        },
         "Background [ Castle Tiles].tsx": {
+            "dynamicWrapping": false,
             "scaleInDock": 1.5,
-            "scaleInEditor": 3
+            "scaleInEditor": 1.5
+        },
+        "Background.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/GitHub/fylaki/Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/GitHub/fylaki/Background.tsx": {
+            "scaleInDock": 1
+        },
+        "ZONA F6/Tutorial/Tutorial Zona F6.tmx": {
+            "scale": 0.77484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.4196410566647,
+                "y": 192.9421254285138
+            }
+        },
+        "Zona D4/Terreno.tmx": {
+            "scale": 0.43653169014084503,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1133.9382940108894,
+                "y": 113.39382940108891
+            }
+        },
+        "Zona D4/Tiles-Dungeon.tsx": {
+            "scaleInDock": 1
+        },
+        "Zona D4/wooden_stairs-ns.tsx": {
+            "scaleInDock": 1
         },
         "prueba_1.tmx": {
             "scale": 1.5,
@@ -31,10 +68,11 @@
     "map.tileWidth": 16,
     "map.width": 32,
     "openFiles": [
-        "Background [ Castle Tiles].tsx"
     ],
     "project": "escenarios.tiled-project",
     "recentFiles": [
+        "ZONA F6/Tutorial/Tutorial Zona F6.tmx",
+        "Zona D4/Terreno.tmx",
         "Background [ Castle Tiles].tsx",
         "Assets [ Castle Prision ].tsx",
         "prueba_1.tmx"
