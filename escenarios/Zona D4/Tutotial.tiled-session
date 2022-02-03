@@ -1,0 +1,111 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Terreno.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/Desktop/Assets.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "C:/Users/USER/Desktop/Background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/USER/Desktop/prueba.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 602,
+                "y": 210.66666666666663
+            }
+        },
+        "C:/Users/USER/Desktop/untitled.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176,
+                "y": 116
+            }
+        },
+        "C:/Users/USER/GitHub/fylaki/escenarios/Assets [ Castle Prision ].tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/GitHub/fylaki/escenarios/prueba_1.tmx": {
+            "scale": 1.6587890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.5124219945838,
+                "y": 178.44342399623224
+            }
+        },
+        "Game_Assets.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Terreno.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1154,
+                "y": 636
+            }
+        },
+        "Tiles-Dungeon.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.33
+        },
+        "ZONA F6/Terreno con Npc/Terreno.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 575,
+                "y": 224
+            }
+        },
+        "ZONA F6/Tutorial/Tutorial Zona F6.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 215.33333333333326,
+                "y": 137.33333333333326
+            }
+        },
+        "wooden_stairs-ns.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.75
+        }
+    },
+    "last.exportedFilePath": "C:/Users/USER/Desktop/All Hope is Gone/Zona D4",
+    "last.imagePath": "C:/Users/USER/Desktop",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "Terreno.tmx",
+        "wooden_stairs-ns.tsx"
+    ],
+    "project": "Tutotial.tiled-project",
+    "recentFiles": [
+        "wooden_stairs-ns.tsx",
+        "Terreno.tmx",
+        "Tiles-Dungeon.tsx",
+        "C:/Users/USER/Desktop/Assets.tsx",
+        "C:/Users/USER/Desktop/Background.tsx",
+        "Game_Assets.tsx",
+        "ZONA F6/Terreno con Npc/Terreno.tmx",
+        "ZONA F6/Tutorial/Tutorial Zona F6.tmx",
+        "C:/Users/USER/GitHub/fylaki/escenarios/prueba_1.tmx",
+        "C:/Users/USER/Desktop/untitled.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx"
+}
